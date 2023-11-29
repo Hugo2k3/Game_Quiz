@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75e3f76888ec46e4f945fb491d18d54b, type: 3}
+  m_Name: Question 5
+  m_EditorClassIdentifier: 
+  question: "\u0110\u1ED9i tuy\u1EC3n b\xF3ng \u0111\xE1 nam qu\u1ED1c gia Vi\u1EC7t
+    Nam V\xF4 \u0111\u1ECBch AFF SuZuKi Cupbao nhi\xEAu l\u1EA7n?"
+  answers:
+  - 3
+  - 2
+  - 4
+  - 1
+  correctAnswerIndex: 1
